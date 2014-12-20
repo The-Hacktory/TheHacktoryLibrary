@@ -1,0 +1,210 @@
+Head First Programming
+A learner's guide to programming using the Python language
+By David Griffiths, Paul Barry
+Publisher: O'Reilly Media
+Released: November 2009
+Pages: 442
+
+Head First JavaScript Programming
+By Eric T. Freeman, Elisabeth Robson
+Publisher: O'Reilly Media
+Released: March 2014
+Pages: 704
+
+Head First HTML and CSS, 2nd Edition
+By Elisabeth Robson, Eric Freeman
+Publisher: O'Reilly Media
+Released: August 2012
+Pages: 768
+
+Head First HTML5 Programming
+Building Web Apps with JavaScript
+By Eric Freeman, Elisabeth Robson
+Publisher: O'Reilly Media
+Released: October 2011
+Pages: 610
+
+Head First Java, 2nd Edition
+By Kathy Sierra, Bert Bates
+Publisher: O'Reilly Media
+Released: February 2005
+Pages: 720
+http://shop.oreilly.com/product/9780596009205.do
+$44.95
+
+Head First Rails
+A learner's companion to Ruby on Rails
+By David Griffiths
+Publisher: O'Reilly Media
+Released: December 2008
+Pages: 464
+
+Learning Python, 5th Edition
+Powerful Object-Oriented Programming
+By Mark Lutz
+Publisher: O'Reilly Media
+Released: June 2013
+Pages: 1600
+
+Computer Science Programming Basics in Ruby
+Exploring Concepts and Curriculum with Ruby
+By Ophir Frieder, Gideon Frieder, David Grossman
+Publisher: O'Reilly Media
+Released: April 2013
+Pages: 188
+
+Java Cookbook
+By Ian F. Darwin
+Publisher: O'Reilly Media
+Released: January 2014
+Pages: 870
+
+Arduino Cookbook, 2nd Edition
+Recipes to Begin, Expand, and Enhance Your Projects
+By Michael Margolis
+Publisher: O'Reilly Media
+Released: December 2011
+Pages: 724
+
+Head First C
+By David Griffiths, Dawn Griffiths
+Publisher: O'Reilly Media
+Released: April 2012
+Pages: 632
+
+Programming Interactivity, 2nd Edition
+A Designer's Guide to Processing, Arduino, and openFrameworks
+By Joshua Noble
+Publisher: O'Reilly Media
+Released: January 2012
+Pages: 728
+
+Mining the Social Web, 2nd Edition
+Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More
+By Matthew A. Russell
+Publisher: O'Reilly Media
+Released: October 2013
+Pages: 448
+
+Learning the bash Shell, 3rd Edition
+Unix Shell Programming
+By Cameron Newham
+Publisher: O'Reilly Media
+Released: March 2005
+Pages: 354
+
+Making Musical Apps
+Real-time audio synthesis on Android and iOS
+By Peter Brinkmann
+Publisher: O'Reilly Media
+Released: February 2012
+Pages: 124
+
+Make: AVR Programming
+Learning to Write Software for Hardware
+By Elliot Williams
+Publisher: Maker Media, Inc
+Released: January 2014
+Pages: 472
+
+Make: Wearable Electronics
+Design, prototype, and wear your own interactive garments
+By Kate Hartman
+Publisher: Maker Media, Inc
+Released: June 2014 (est.)
+Pages: 300
+
+Making Things Talk, 2nd Edition
+Using Sensors, Networks, and Arduino to see, hear, and feel your world
+By Tom Igoe
+Publisher: Maker Media, Inc
+Released: September 2011
+Pages: 496
+
+Make: Basic Arduino Projects
+26 Experiments with Microcontrollers and Electronics
+By Don Wilcher
+Publisher: Maker Media, Inc
+Released: February 2014
+Pages: 260
+
+Getting Started with Raspberry Pi
+Getting To Know The $35 ARM-Powered Linux Computer
+By Matt Richardson, Shawn Wallace
+Publisher: Maker Media, Inc
+Released: December 2012
+Pages: 176
+
+Making Things See
+3D vision with Kinect, Processing, Arduino, and MakerBot
+By Greg Borenstein
+Publisher: Maker Media, Inc
+Released: January 2012
+Pages: 440
+
+Getting Started with Processing
+A Quick, Hands-on Introduction
+By Casey Reas, Ben Fry
+Publisher: Maker Media, Inc
+Released: June 2010
+Pages: 210
+
+Getting Started with Arduino, 2nd Edition
+By Massimo Banzi
+Publisher: Maker Media, Inc
+Released: September 2011
+Pages: 130
+
+Make: Electronics
+Learning Through Discovery
+By Charles Platt
+Publisher: Maker Media, Inc
+Released: November 2009
+Pages: 352
+
+Operating System Concepts With Java. 6th edition. 
+Silberschatz, Glavin and Gagne
+Wiley
+
+Holo 1. 
+Beesley, Dam gallery, Derivative, et. al.
+ 
+Linux: The Complete Reference
+Penguin Computing Edition
+
+Make Magazine. various.
+
+Craft Magazine. various.
+
+Fashioning Technology
+Syuzi Pakhchyan
+O'Reilly
+
+The Artist's Guide To Public Art
+BASA
+Allworth Press
+
+Wearable Electronics
+Kate Hartman
+Maker Media
+
+Getting Started in Electronics
+Forest Mims III
+
+Citizen Science. 
+Trautmann, Fee et. al.
+NSTA Press
+
+Generative Design: Visualize, Program, and Create with Processing
+Hartmut Bohnacker and Benedikt Gross
+Princeton Architectural Press
+
+Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction
+Daniel Shiffman
+Morgan Kauffman 
+
+XCode 3 Unleashed
+Fritz Anderson
+Sam's Publishing
+
+Megawords
